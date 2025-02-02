@@ -1,2 +1,0 @@
-Added to check the .gitignore
-XXXXXFFFF
